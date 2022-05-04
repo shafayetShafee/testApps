@@ -29,3 +29,7 @@ runTestApp("testApp01")
 runTestApp()
 # this will give error with all possible shiny names contained in the package.
 ```
+
+## Credit
+
+These shiny apps are made by following youtube videos, R views post. All I did just polishing the app using awesome `bs4Dash`, `echarts4r`, `waiter` etc. R packages.
