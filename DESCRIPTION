@@ -1,0 +1,21 @@
+Package: testApps
+Title: Run simple shiny apps
+Version: 0.0.0.9000
+Authors@R: 
+    person("Shafayet Khan", "Shafee", , "shafayetshafee@example.com", 
+           role = c("aut", "cre"))
+Description: This is a personal package which contains some simple shiny app.
+License: CC BY 4.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    bs4Dash,
+    dplyr,
+    echarts4r,
+    forcats,
+    reactable,
+    shiny,
+    shinycssloaders,
+    tibble,
+    waiter
