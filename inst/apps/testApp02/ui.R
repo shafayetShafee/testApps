@@ -83,7 +83,7 @@ dashboardPage(
       tags$link(
         rel = "stylesheet",
         type = "text/css",
-        href = "style.css"
+        href = "style2.css"
       )
     ),
     fluidRow(

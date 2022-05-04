@@ -132,7 +132,7 @@ ui <- dashboardPage(
       tags$link(
         rel = "stylesheet",
         type = "text/css",
-        href = "style.css"
+        href = "style1.css"
       )
     ),
     fluidPage(
