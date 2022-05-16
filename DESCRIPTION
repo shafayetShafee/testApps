@@ -14,6 +14,7 @@ Imports:
     dplyr,
     echarts4r,
     forcats,
+    nycflights13,
     reactable,
     shiny,
     shinycssloaders,
